@@ -1,0 +1,2 @@
+Consider the following user story: As a developer, I want to download VS Code, so that I can write code.
+Would this image of the website able to satisfy this user story?

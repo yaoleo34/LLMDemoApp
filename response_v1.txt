@@ -1,0 +1,16 @@
+1. **Visit the JetBrains website**:
+   - Go to the JetBrains official website at [jetbrains.com](https://www.jetbrains.com).
+
+2. **Navigate to IntelliJ IDEA**:
+   - Hover over or click on the "Tools" menu.
+   - Select "IntelliJ IDEA".
+
+3. **Download IntelliJ IDEA**:
+   - Click on the "Download" button on the IntelliJ IDEA page.
+   - Choose the version that suits your needs (Community for the free version, or Ultimate for the paid version) and the operating system you're using (Windows, macOS, Linux).
+   - The download should start automatically.
+
+4. **Install IntelliJ IDEA**:
+   - Once the download is complete, run the installer file and follow the installation instructions.
+
+By following these steps, you will be able to download and install IntelliJ IDEA on your system.
